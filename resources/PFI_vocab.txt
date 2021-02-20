@@ -1,0 +1,207 @@
+Adverse Event
+Boxed Warning
+Cardiovascular disease
+CDRH
+ClinicalTrialsGov
+Comparison
+Compassionate Use
+Confidentiality regarding participants
+Consumer Medication Information
+CMI
+Control group
+DailyMed
+Diabetes
+Double blind research design
+Double blind randomized controlled clinical trial
+DrugsFDA
+Drug Product Recalls
+Drug Recall
+Drug Withdrawal
+Durable power of attorney
+Early Communication about an Ongoing Safety Review
+Experiment
+Expanded Access
+Experimental group
+FDA Adverse Event Reporting System
+FAERS
+FDASIA Section 907
+Federal Register
+Form FDA 3926
+Healthy volunteer
+In vitro
+In vivo
+Inclusion criteria
+Exclusion criteria
+Informed consent
+Inpatient
+Institutional Review Board 
+Investigational Drug
+Letters to Health Care Professionals
+Medication Guides
+Med Guide
+MedWatch
+Minimal Risk
+Molecular compound
+National Cancer Institute
+National Institutes of Health
+NIH
+National Library of Medicine
+New Drug Approval Process
+Nonprescription Drug Label
+Drug Facts
+Off Label Use
+Office of Minority Health
+FDA
+Outpatient
+Patient Network News
+Placebo
+Placebo effect
+PostMarket Surveillance
+PreClinical Data
+Prediabetes
+Privacy Policy
+Protocol
+Public Health Advisories
+Randomizationrandom assignment
+Regulatory Agency
+Research
+Singleblind research design
+Sodium
+Sponsors
+Standard treatment
+Standardized procedures
+Study
+Type 1 Diabetes
+Type 2 Diabetes
+Abbreviated New Drug Application
+ANDA
+Abbreviated New Drug Application Number 
+ANDA Number 
+Active Ingredient 
+Approval History 
+Application 
+Approval Letter 
+Application Number 
+Biologic License Application
+BLA
+Biological Product
+Brand Name Drug
+Chemical Type
+Company
+Discontinued Drug Product 
+Dosage Form 
+Drug
+Drug Product 
+FDA Action Date 
+FDA Application Number 
+Generic Drug 
+Label
+Marketing Status 
+Medication Guide 
+NDA
+see New Drug Application
+New Drug Application
+NDA 
+New Drug Application
+NDA Number
+NME
+see New Molecular Entity
+New Molecular Entity
+NME
+OvertheCounter Drugs
+OTC
+Patient Package Insert
+PPI
+Pharmaceutical Equivalents
+Prescription Drug Product 
+Product Number 
+Reference Listed Drug
+RLD
+Review
+Review Classification
+RLD
+Reference Listed Drug 
+Route
+Strength 
+Supplement 
+Supplement Number 
+Supplement Type 
+Tentative Approval
+Therapeutic Biological Product
+Therapeutic Equivalence
+TE
+only
+Therapeutic Equivalence Codes
+TE Codes 
+District
+Attribute
+Benefit
+Benefitrisk assessment
+Biomarker
+Caregiver
+Caregiver preference
+Clinical benefit
+Clinical outcome
+Clinical outcome assessment
+Clinical relevance
+Clinicianreported outcome
+ClinRO
+Concept
+also referred to as concept of interest 
+Data analysis plan
+Data management plan
+DMP 
+Disease burden
+Endpoint
+Fitforpurpose
+Generalizability
+Health literacy
+Literacy
+Methodologically sound
+Mixed methods research
+Observerreported outcome
+ObsRO
+Patient
+Patient advocate
+Patientcentered
+Patientcentered outcome
+Patient engagement
+Patient experience data
+Patientfocused
+also referred to as patientcentered 
+Patientfocused drug development
+PFDD 
+patientfocused medical product development
+Patient input
+Patient partner
+Patient perspective
+Patient preference
+Patient preference information
+PPI
+Patientprovided input
+Patientreported outcome
+PRO
+Patient representative
+Performance outcome
+PerfO
+Qualitative research methods
+Quantitative research methods
+RealWorld Data
+RWD
+Real world evidence
+RWE
+Reporter
+Representativeness
+Research protocol
+Risk
+Risk tolerance
+Science of patient input
+Social Media
+Subgroup
+Surrogate endpoint
+Target population 
+Tradeoff
+Treatment burden
+Treatment effect
+Treatment outcome
+Unmet medical need

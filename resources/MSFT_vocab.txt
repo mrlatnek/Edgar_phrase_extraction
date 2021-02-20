@@ -1,0 +1,3559 @@
+net
+100 Gbps PON
+10gpon
+1xRTT
+CDMA2000 1x
+25G
+2D Bar Code Marketing
+2G
+Second Generation
+35G
+360Degree Feedback
+3D Bioprinting
+3D Flatpanel TVs And Displays
+3D LCDs
+3D Photovoltaic Devices
+3D Printing
+3D Scanners
+3D TV Services
+3G
+Third Generation
+3GPP
+Thirdgeneration Partnership Project
+450mm Wafers
+4G Standard
+4K X 2K TV Displays
+5 Whys
+5G
+5S
+64bit Windows Server
+6LoWPAN
+7 Wastes
+digitize
+Absence Management
+Absorption Chillers
+Access Method
+Access Point
+AP
+Accessibility
+Account Executive
+AE
+Account Growth
+Account Management
+Account Manager
+Account Planning
+Account Team
+AccountBased Marketing
+ABM
+Accountable Care Organization
+ACO
+Accounting Reconciliation
+Accounts Receivable
+Accredited Standards Committee
+ASC
+Accrual Accounting
+Active Data Dictionary
+Active Directory
+Active Matrix Organic Lightemitting Diodes
+AMOLED
+ActiveX
+Activity Stream
+Activitybased Costing
+ABC
+Activitybased Management
+ABM
+Ad Ops
+Ad Targeting
+Ad Tech
+Adapters
+Adaptive Learning
+Additive Manufacturing
+Addressable TV Advertising
+Adsorption Chillers
+Advanced Analytics
+Advanced Clinical Research Information Systems
+ACRIS
+Advanced Distribution Management Systems
+ADMS
+Advanced Distribution Protection And Restoration Devices
+Advanced Driver Assistance Systems
+ADAS
+Advanced Fraud Detection And Analysis Technologies
+Advanced Message Queuing Protocol
+AMQP
+Advanced Metering Infrastructure
+AMI
+Advanced Planning And Scheduling
+APS
+Advanced Research Projects Agency Network
+ARPANET
+Advanced Server Energy Monitoring Tools
+Advanced Shipment Notice
+ASN
+Advanced Technology
+Advanced Technology Group
+ATG
+Advanced Threat Detection
+ATD Appliances
+Advanced Web Services
+Advertisement Action
+Advocacy Marketing
+Aerial And Digital Imagery
+Affective Computing
+Affiliate Marketing
+Affirmative Action
+Ageism
+Agent Collaboration Tools
+Agent Portal Solutions
+Agile
+Agile Marketing Project Management
+Agile NeoRAD
+AIM
+AOL Instant Messenger
+AIOps
+Artificial Intelligence for IT Operations
+AIOps Platform
+Algorithmic Business
+AllinOne
+AIO PCs
+Alliance And Relationship Management
+Alternative Card Networks
+Alternative Delivery Models
+Ambient And Glanceable Displays
+AMD
+Architected Modeldriven Development
+American National Standards Institute
+ANSI
+American Standard Code For Information Interchange
+ASCII
+Americans With Disabilities Act
+AMG
+Access Media Gateways
+AMIA
+American Medical Informatics Association
+AMIS
+Audio Messaging Interchange Specification
+AMO
+Application Management Outsourcing
+Amortization
+AMPS
+Advanced Mobile Phone Service
+AMR
+Adaptive Multirate
+Analytic Applications
+Analytical Hierarchy Process
+AHP
+Analytics
+Analytics and Business Intelligence
+ABI
+Answer Marketplace
+Api Management
+Applet
+Appliances
+Applicant Tracking Systems
+ATS
+Application Architecture
+Application Control
+Application Data Management
+ADM
+Application Delivery Controller
+ADC
+Application Development
+AD
+Application Infrastructure
+Application Infrastructure Suite
+AIS
+Application Integration
+Application Life Cycle Management Platform as a Service
+ALM PaaS
+Application Management
+Application Modernization Services
+Application Obfuscation
+Application Outsourcing
+Application Performance Monitoring
+APM
+Application Platform as a Service
+aPaaS
+Application Program
+Application Programming Interface
+API
+Application Release Automation
+ARA
+Application Server
+Application Service Provider
+ASP
+Application Sharing
+Application Software Services
+Application Channel Technology And Industry
+ACT I
+ApplicationSpecific Integrated Circuit
+ASIC
+ApplicationSpecific Standard Product
+ASSP
+Applications Portfolio Analysis
+APA
+Architected Rapid Application Development
+ARAD
+Architecture
+Artificial Intelligence
+AI
+Artificial Intelligence Model Operationalization
+ModelOps
+Assemble To Order
+Asset Performance Management
+APM
+Asynchronous Transfer Mode
+ATM
+Asynchronous Transmission
+Attenuation
+Attrition
+Audio Miningspeech Analytics
+Augmented Analytics
+Augmented Intelligence
+Augmented Reality
+AR
+Authentication Service
+Authentication Technologies
+Authorization
+Automated Backup
+Automated Business Process Discovery
+ABPD
+Automated Document Factory
+ADF
+Automated Payment Tracking And Reconciliation Services
+Automated System Operations
+ASO
+Automated Teller Machine
+ATM
+Automated Testing
+Automated Vehicle Locating
+AVL
+Automatic Content Recognition
+ACR
+Automatic Restart
+Automatic Storage Tiering
+AutoTiering
+Autonomous System
+AS
+Autonomous System Number
+ASN
+Autonomous Vehicles
+Availability
+Avatar
+Average Inventory
+Average Selling Price
+ASP
+Average Speed of Answer
+ASA
+B2B Gateway Software
+B2B Marketing
+B2B Price Optimization And Management
+B2B Web Services
+Backend
+Backbone
+Backbone Network
+Backbone Router
+Background Check
+Background Task
+Backhaul
+Backplane
+Backup Server
+Backuprecovery Software
+Balanced Scorecard
+bsc
+Band
+Bandwidth
+Bandwidth As Currency
+Bank Tiers
+Bar Code Marketing
+Base Station
+Base Station Controller
+BSC
+Base Transceiver Station
+BTS
+Baseband
+Basic InputOutput System
+BIOS
+Basic Trading Area
+BTA
+Batch Processing
+Batterypowered Radio Frequency Identification
+RFID
+Baud
+Behavior Learning Engines
+BLE
+Behavioralgestural Analytics
+Benchmarking
+Bereavement Leave
+Best Practice
+Bestinclass
+Bestofbreed
+Beta Testing
+Bid
+Big Data
+Bill Of Lading
+Bill of Materials
+BOM
+Bimodal
+Binary Code
+Binary Digit
+bit
+Binary Large Object
+BLOB
+Binary Runtime Environment For Wireless
+BREW
+Binary Synchronous Communications
+BSC
+Binary Table
+byte
+Biochips
+Bioinformatics
+Bioinformatics And Chemoinformatics
+Biomass
+Biometric ATMs
+Biometric Authentication
+Biometric Characteristic
+Bitcoin
+Blade Servers
+Blanking Interval
+Block Error Rate
+Blockchain
+Blog
+Blogging Platforms
+Bluray
+Bluetooth
+Bluetooth 30
+BT30
+Bluetooth 40
+BT40
+Bluetooth Low Energy
+LE
+Bookmark
+Bottleneck
+Bounce Rate
+BPM Pureplay
+Brand Extension
+Brand Identity
+Brand Service Company
+Brand Strategy
+Branded Content Management
+Bring Your Own Device
+BYOD
+Brinkmanship
+Broadband
+Broadband Wireless Access
+BWA
+Broadcast
+Broadcast Storm
+Brownout
+Browser
+Buffer
+Bug
+Buildoperatetransfer
+Buildingintegrated Photovoltaics
+BIPV
+Bundling
+Burst
+Business Activity Monitoring
+BAM
+Business Analytics
+Business Application Programming Interface
+BAPI
+Business Capability Modeling
+Business Casual Attire
+Business Continuity Management Planning
+BCMP
+Business Continuity Manager
+BCM
+Business Continuity Planning
+BCP
+Business Development
+Business Development Representative
+BDR
+Business Impact Analysis
+BIA
+Business Intelligence
+BI Platforms
+Business Intelligence
+BI Services
+Business Intelligence Competency Center
+BICC
+Business Model
+Business Partnering
+Business Pattern Recognition
+Business Process
+Business Process Analysis Tools
+Business Process As A Service
+BPaaS
+Business Process Automation
+BPA
+Business Process Management
+BPM
+Business Process Management
+BPM Standards
+Business Process Management Suites
+BPMSs
+Business Process Modeling
+BPM
+Business Process Outsourcing
+BPO
+Business Process Reengineering
+BPR
+Business Process Utilities
+BPUs
+Business Rule Engines
+BRE
+Business Service Provider
+BSP
+Business to Business
+B2B Buying Process
+Business to Business
+B2B Sales
+Buyer Enablement
+Buying Journey
+BuySmart
+Byte Code
+C
+Programming Language
+C
+Cband
+Cable Service Provider
+Cache
+Caching Server
+Call Center
+Call Detail Record
+CDR
+Call Processing
+Caller ID
+Campaign Management
+Capabletopromise
+CTP Systems
+Capacity Requirements Planning
+CRP
+Capacity Utilization
+Capital Allocation
+Capital Structure
+Captive Centers
+Car Connectivity Consortium
+CCC
+Care Delivery Organization
+CDO
+Career Development
+Career Pathing
+Cargo Portals
+Carrier Frequency
+Carrier Network Infrastructure
+CNI
+Carrier System
+Cascading Faults
+Case Management Solutions
+Casebased Reasoning
+CBR
+Cash Flow Forecasting
+Catalog Content Management
+Category Management
+CDMA2000
+Cell
+Cell Site
+Cell Splitting
+Cellular Radio
+Cellular To Wifi Authentication
+Center of Excellence
+COE
+Certification Authority
+ca
+Challenger Sale
+Change Management
+Channel
+Channel Analytics
+Channel Bank
+Channel Capacity
+Channel Integration
+Channel Management
+Channel Partner
+Channel Sales
+Chargecoupled Device
+ccd
+Chatbot
+Check Digit
+Checksum
+Chief Human Resources Officer
+CHRO
+Chief Information Officer
+CIO
+Chief Marketing Officer
+CMO
+Chief Revenue Officer
+CRO
+Chief Sales Officer
+CSO
+Chip Design Starts
+Churn Rate
+CIM
+Common Information Model
+CIM
+ComputerIntegrated Manufacturing
+CIM
+Customer Information Management
+CIMA
+Customer Information Management and Application
+CIR
+Committed Information Rate
+Circuit
+Circuit Board
+Circuit Grade
+Circuit Switching
+CIRP
+Cyber Incident Response Plan
+CIRT
+Cyber Incident Response Team
+CISC
+Complex Instruction Set Computer
+CISSP
+Certified Information Systems Security Professional
+Citizen Developer
+CKO
+Chief Knowledge Officer
+CLA
+Corporate License Agreement
+Cladding
+Claims Analytics
+Claims Management Solutions
+Clamshell
+Class
+Classbased Queuing
+CBQ
+Classless Interdomain Routing
+CIDR
+CLI
+Common Language Infrastructure
+Clickthrough
+ClickThrough Rate
+CTR
+Clickbait
+Clicks And Bricks
+Clickstream Analysis
+Client
+Client Appliance
+Client Computing Hardware Services
+Client Management Tools
+Clientserver
+Climatedriven Forecasting
+Clinical Context Object Workgroup
+CCOW
+Clinical Data Repository
+CDR
+Clinical Information Modeling Initiative
+CIMI
+Clinical Kiosks
+Clinical Resource Management
+Clipping
+Clock Clocking
+Closedloop MRP
+Closedloop Material Requirements Planning
+Closedloop Performance Management
+pm
+Cloud Access Security Brokers
+CASBs
+Cloud Advertising
+Cloud Application Development
+AD Services
+Cloud Communications Service Provider
+Cloud Computing
+Cloud Core Financial Management Suites
+Cloud Email
+Cloud Encryption Gateways
+Cloud Engineering
+Cloud ERP for Productcentric Companies
+Cloud File Sharing
+Cloud Management Platforms
+Cloud Office Migration
+Cloud Printing Services
+CPS
+Cloud Security
+Cloud Security Gateways
+Cloud Service Elasticity
+Cloud Services Brokerage
+CSB
+Cloud Sourcing Deals Anatomy
+Cloud Strategy
+Cloudbased Grid Computing
+Cloudbursting
+Cluster Controller
+Clustered System
+Clustering
+CLV
+Constant Linear Velocity
+CM
+Configuration Management
+CM
+Course Management
+CMC
+Common Messaging Calls
+CME
+Corporate and Major Enterprise
+CMMS
+Computerized Maintenance Management System
+CMNS
+Connection Mode Network Service
+CMOL
+CMIP Over LLC
+CMOS
+Complementary Metaloxide Semiconductor
+CMOT
+CMIP Over TCPIP
+CMP
+Cellular Multiprocessing
+CMS
+Campaign Management System
+CMV
+Controlled Medical Vocabulary
+CMYK
+Sometimes YMCK or Process Color Printing
+CNP
+Certified Network Professional
+CNS
+Converged Network Services
+Cocreation
+Coaxial Cable
+CoDA
+Context Delivery Architecture
+Codds Rule Zero
+Code Division Multiple Access
+CDMA
+Codec
+coderdecoder
+Cognitive Radio
+COL
+Component Object Library
+COLD
+Computer Output To Laserdisc
+Collaborative Commerce
+Ccommerce
+Collective
+Collective Bargaining
+Collective Competency
+College Of Healthcare Information Management Executives
+CHIME
+Columnstore Database Management System
+DBMS
+Com
+Communications Port
+COM
+Component Object Model
+COM
+Computer Output to Microfilm or Microfiche
+Comanagement Processes
+Combined Heat and Power
+CHP
+Commerce Everywhere
+Commerce Experiences
+Commerce Platform Servers
+Commercial Telematics
+Committed Access Rate
+CAR
+Common Access Card
+CAC
+Common Gateway Interface
+CGI
+Common Internet File System
+CIFS
+Communications as a Service
+CaaS
+Communications Oriented Production Information and Control System
+COPICS
+Communications Platform as a Service
+CPaaS
+Communications Service Provider
+CSP
+Communities
+Community
+Community Cloud
+Community Of Practice
+Compact DiscRewritable
+CDRW
+Compandor
+Competencies
+Competency Center
+Competitive Intelligence
+CI
+Complementary Metaloxide Semiconductor
+Complexevent Processing
+Compliance
+Compliance
+commercial
+Compliance
+organizational
+Compliance
+regulatory
+Component
+Componentbased Development
+CBD
+Composite Application
+Composite Content Applications
+CCAs
+Composition
+Compound Annual Growth Rate
+CAGR
+Computationalfluiddynamic
+CFD Analysis
+Computer Emergency Response Team
+CERT
+ComputerAided Design and Drafting
+CADD
+ComputerAided Engineering
+CAE
+ComputerAided Manufacturing
+CAM
+ComputerAided Software Engineering
+CASE
+Computerbased Physician Order Entry
+CPOE
+Computerbrain Interface
+Computing Appliance
+Computing Platform Products
+Concentrator
+Concurrent Backup
+Concurrent Database Restore
+Concurrent Engineering
+CE
+Concurrent Use
+Conditioning
+Conductor
+Confidentiality Agreement
+Configuration Auditing
+Configure Price Quote
+CPQ Application Suites
+Conflict Management
+Conflict of Interest
+Connect Time
+Connected Devices
+Connected Game Handhelds
+Connected Home
+Connected Imaging Devices
+Connected Portable Media Players
+PMPs
+Connected Portable Navigation Devices
+PNDs
+Connection
+Connection Admission Control
+CAC
+Connectionoriented Service
+Connectionless
+Connectionless Service
+Consent Management
+Console
+Constant Bit Rate
+CBR
+Consultative Selling
+Consumer Broadband Connections
+Consumer Broadband Services
+Consumer Digital Rights Management
+DRM
+Consumer Internet Services
+Consumer NAS
+Consumer Network Attached Storage
+Consumer Telematics
+Consumer Telepresence
+Consumer Voice Access Lines
+Consumer Voice Services
+Consumer Web Mashups
+Consumergenerated Media
+CGM
+Consumerization
+Contact Center
+Contact Center Infrastructure
+Contact Center System
+Contact Center Workforce Optimization
+Contact Database
+Contactless Card
+Contactless Payments
+Content Aggregation
+Content Aggregator
+Content Analytics
+Content And Applications Service Provider
+Content Awareness
+Content Delivery Networks
+CDNs
+Content Management
+CM
+Content Management Systems
+Content Marketing
+Content Marketing Platforms
+Content Optimization
+Content Provider
+Content Services Platform
+CSP
+Content Strategy
+Content Targeting
+Content Communications And Collaboration
+Contentaware Data Loss Prevention
+DLP
+Contention
+Context
+Context Management Engine
+Contextaware Computing
+Contextaware Security
+Contextenriched Content
+Contextenriched Services
+Contextual Presence
+Contingent Workforce
+Continuity Check
+Continuous Controls Monitoring
+CCM
+Continuous Data Protection
+CDP
+Continuous Improvement
+Continuous Integration
+CI
+Continuous Intelligence
+Continuous Moves
+Continuous Operations
+Continuous Production
+Contract Life Cycle Management
+CLM
+Control Character
+Control Charts
+Control Code
+Control Objectives for Information and Related Technology
+COBIT
+Convergent Charging
+Conversational Media
+Conversion Rate
+Cookie
+Cooling Management Systems
+Cooperative Processing
+Coordination Mechanics
+CORBA
+Common Object Request Broker Architecture
+CORE
+Compare Operational Readiness Evaluation
+Core Banking System
+Core Storage Management
+Corporate Communication
+Corporate Financial Planning Applications
+Corporate Performance Management
+CPM
+Corporate Real Estate
+CRE
+Corporate Website Activity
+CoS
+Class of Service
+COSE
+Common Open Software Environment
+Cost Management
+Cost of Sales
+Cost Optimization
+Cost per Thousand
+CPM
+Cost Reduction
+Cost Savings
+Cost Structure
+Cost To Serve
+Country Code
+CPA
+Comprehensive Production Architecture
+CPC
+Collaborative Product Commerce
+CPC
+Cost Per Click
+CPE Business DSL Router with Embedded DSL Modem
+CPE External Standalone Modem
+CPE Internal Modem
+CPEMH
+Computeraided Patiententered Medical History
+CPGA
+Cost Per Gross Add
+CPI
+Continuous Process Improvement
+CPM
+Critical Path Method or Critical Path Management
+CPM Suites
+CPMS
+Corporate Property Management Software
+CPP
+Commercial Parallel Processing
+CPR
+Computerbased Patient Record
+CPR System
+CPRI
+Common Public Radio Interface
+CPS
+Certification Practice Statement
+CPT
+Current Procedural Terminology
+CPU
+Central Processing Unit
+CQI
+Continuous Quality Improvement
+CRC
+Cyclic Redundancy Check
+Crisis Communication
+Crisisincident Management
+CIM Software
+Critical Ratio
+Critical Talent
+Criticalpath Scheduling
+CRL
+Certificate Revocation List
+CRM Printing
+CRM Publishing
+Crosscertification
+Crosscompiler
+Crossdocking
+Crossmodulation
+Crowdsourced Application Testing Services
+Crowdsourcing
+CRUD
+Create Retrieve Update Delete
+CSD
+Circuitswitched Data
+CSD
+Consolidated Service Desk
+CSF
+Critical Success Factor
+CSS
+Customer Service and Support
+CSU
+Channel Service Unit
+CTI
+ComputerTelephony Integration
+CTO
+Chief Technology Officer
+CTQ
+Critical to Quality
+CTX
+Clear to Send
+CTX
+Corporate Trade Exchange
+CU
+Compliance Unit
+CUG
+Closed User Group
+Cultural Change
+Cumulative Lead Time
+Current Loop
+Custom Key Set
+Customer Acquisition
+Customer Analytics
+Customer Centricity
+Customer Communications Management
+CCM
+Customer Confidence
+Customer Data Platform
+Customer Engagement Center
+CEC
+Customer Engagement Hub
+ceh
+Customer Experience
+Customer Experience Management
+CEM
+Customer Gateways
+Customer Identity and Access Management
+CIAM
+Customer Information File
+CIF
+Customer Journey
+Customer Lifetime Value
+Customer Loyalty
+Customer Premises Equipment
+CPE
+Customer Relationship Management
+CRM
+Customer Relationship Management
+CRM Analytics
+Customer Selfservice And Support
+Customer Success
+Customized Network Management
+Cyber Library
+Cybersecurity
+Cybersecurity Policies
+Cycle Time
+DAB
+Digital Audio Broadcasting Plus
+Daemon
+DaisyChaining
+DAP
+Directory Access Protocol
+DAP
+Distributed Application Platform
+DAPP
+Data Analysis and Provider Profiling
+Dark Data
+Dark Fiber
+DARPA
+Defense Advanced Research Projects Agency
+DAS
+Distributed Antenna System
+DAS
+DualAttached Station
+DASD
+DirectAccess Storage Device
+DASH7
+Dashboards
+DAT
+Digital Audiotape
+DAT
+Dynamic Address Translation
+Data And Analytics
+Data Broker
+Data Center
+Data Center Bridging
+DCB
+Data Center Infrastructure Management
+DCIM
+Data Center Outsourcing
+DCO
+Data Center Storage Encryption
+Data Deduplication
+Data Dependency Mapping
+Data Governance
+Data Integration
+Data Lake
+Data Literacy
+Data Loss Protection
+Data Management
+DM
+Data Management Platform
+DMP
+Data Mining
+Data Monetization
+Data Ops
+Data Preparation
+Data Profiling
+Data Quality Software as a Service
+SaaS
+Data Quality Tools
+Data Replication
+Data Scientist
+Data Security
+Data Strategy
+Data Synchronization
+Data Visualization
+Data Warehouse
+Data Wiping
+DataDriven Marketing
+Database Activity Monitoring
+DAM
+Database Appliances
+Database Audit and Protection
+DAP
+Database Design
+Database Encryption
+DataOps
+DBMS
+Database Management System
+DBMS Management
+DBS
+Direct Broadcast Satellite
+DDBMS
+Distributed Database Management System
+DDL
+Data Definition Language
+DDoS Mitigation Services
+Deal Sweet Spot Analysis
+Debenture
+DebttoEquity Ratio
+Decision Intelligence
+Decision Maker
+Deferred Compensation
+Defined Benefit Plan
+Defined Contribution Plan
+Deflation
+Demand Forecasting
+Demand Generation
+Demand Pattern Analysis
+Demand Planning
+Demand Response
+DR
+Demand Signal Repository
+DSR
+Demanddriven Material Requirements Planning
+DDMRP
+Demanddriven Value Network
+DDVN
+Deming PDCA Cycle
+Deployment
+Descriptive Analytics
+Design Thinking
+Designtodemand
+Desktop as a Service
+DaaS
+Desktop Outsourcing
+Desktop Virtualization
+DEVA
+DocumentEnabled Vertical Application
+Development And Integration Services
+Device Resource Management
+Deviceembedded Biometric Authentication
+DevOps
+DevSecOps
+DFSS
+Design For Six Sigma
+DFX
+Design for X
+DGT
+Directorate General of Telecommunications Taiwan
+Diagnostic Analytics
+DIF
+Data Interchange Format
+Digital
+Digital Ad Operations Platforms
+Digital Agencies
+Digital Asset Management
+DAM
+Digital Assets
+Digital Audio Broadcasting
+DAB
+Digital Business
+Digital Business Transformation
+Digital Commerce
+Digital Commerce Experience
+Digital Connectivism
+Digital CrossConnect
+DXC
+Digital Customer
+Digital Dial Tone
+Digital Disruption
+Digital Disruptor
+Digital Divide
+Digital Experience Platform
+DXP
+Digital Finance
+Digital Forensics
+Digital Loopback
+Digital Marketer
+Digital Marketing
+Digital Marketing Hub
+Digital Marketing Strategy
+Digital Marketing Trends
+Digital Modem
+Digital Network
+Digital Optimization
+Digital Pathology Scanners
+Digital Signature
+Digital Switching
+Digital Thick Wallet Solutions
+Digital Thin Wallet Solutions
+Digital Transformation
+Digital Transformation Consulting
+DTC
+Digital Twin
+Digital Wallet
+Digital Watermarking
+Digital Workplace
+Digitalization
+Digitization
+Digitize
+Direct Channel
+Direct Chip Cooling
+Direct Response Marketing
+Direct Sales
+Directed Speech Recognition
+Directory Services
+Dirty Protocols
+Disaster Recovery
+DR
+Disciplined Multisourcing
+Discrete Manufacturing
+Discretionary Security Controls
+Discussion Database
+Discussion Forum
+Dishstirling Engine
+Distance Learning
+Distributed Cloud
+Distributed Computing
+Distributed Data Management
+Distributed Database
+Distributed Function
+Distributed Generation
+DG
+Distributed Power Generation
+Distributed Tape For Backup And Archiving
+Distributed Version Control System
+DVCS
+Diversification
+Diversity and Inclusion
+DI
+Dividends
+DMAIC
+Define Measure Analyze Improve Control
+DMB
+Digital Multimedia Broadcasting
+DNA Logic
+Dock Scheduling
+Document Management
+DM
+Document Management Hardware Services
+DoJa
+DoCoMo Java
+DollarCost Averaging
+DCA
+Domain Name
+Downlink
+Download
+Downsizing
+Downtime
+DPMO
+Defects Per Million Opportunities
+DPO
+Defects Per Opportunity
+DPU
+Defects Per Unit
+DR
+Distributed Request
+DRM
+Digital Rights Management
+DRM
+Distributed Resource Management
+DRP
+Disaster Recovery Planning
+DRP
+Distribution Requirements Planning
+Drum Buffer Rope
+DSL
+Digital Subscriber Line
+DSLCablesharing ResidentialSmalloffice GatewayRouter
+DSM
+Distributed System Management
+DTH
+Direct To Home
+Dual Mode
+Dualband
+Dualband Network
+Dualview Displays
+Dumb Terminal
+Dye Sublimation
+Dyesensitized Solar Cells
+DSSCs
+Dynamic Application Security Testing
+DAST
+Dynamic Business Process Management
+BPM
+Dynamic Content
+Dynamic Data Masking
+DDM
+Dynamic Routing
+Dynamic Web Application Tools
+Ebook Readers
+Ereaders
+EBusiness
+ECommerce
+EDiscovery Software
+ELearning
+Email Security Boundary
+EProcurement
+E1
+Earth Station
+Edge
+Edge Computing
+Editorial Calendar
+Elastic Multitenancy
+Electro Mobility
+eMobility
+Electronic Bill Presentment and Payment
+EBPP
+Electronic Coupons
+eCoupons
+Electronic Customer Relationship Management
+eCRM
+Electronic Data Capture
+EDC
+Electronic Forms
+eForms
+Electronic Health Record
+EHR
+Electronic Paper
+Electronic Prescribing
+ePrescribing
+Electronic Signature
+eSignature
+Electronic Waste
+eWaste
+Electrovibration
+Email Marketing
+Embedded Analytics
+Embedded Cellular Data
+Embedded Software And Electronics Design
+Emergent Structures
+Emerging Data Protection Schemes
+Emotion Detection
+Employee Assistance Program
+EAP
+Employee Engagement
+Employee Experience
+Employee Relations
+Employee Retention
+Employee SelfService
+ESS
+Employee Value Proposition
+Encapsulation
+Encryption
+Endpoint Protection Platform
+EPP
+Energy Management Systems
+EMSs
+Energy Trading and Risk Management
+ETRM
+Enhanced Data Rates for Global Evolution
+EDGE
+Enhanced Ebooks
+Enhanced Messaging Service
+EMS
+Enhanced Network Delivery
+Enhanced Observed Time Difference
+eotd
+Ensemble Interactions
+Ensemble Programming
+Enterprise Application Outsourcing
+eao
+Enterprise Application Software
+Enterprise Applications
+Enterprise Architecture
+EA
+Enterprise Architecture
+EA Assurance
+Enterprise Architecture
+EA Tools
+Enterprise Asset Management
+EAM
+Enterprise Content Management
+ECM
+Enterprise Context
+Enterprise Fraud Management
+EFM
+Enterprise Information Architecture
+EIA
+Enterprise Information Archiving
+EIA
+Enterprise Information Management
+EIM
+Enterprise Metadata Management
+EMM
+Enterprise Mobile Communications Gateway
+EMCG
+Enterprise Nervous System
+ENS
+Enterprise Performance Management
+EPM
+Enterprise Portal
+EP
+Enterprise Resource Planning
+ERP
+Enterprise Risk Management
+Enterprise Security Intelligence
+ESI
+Enterprise Social Software
+Enterprise Solutions
+Enterprise Technology Architecture
+ETA
+Enterprise Unified Communications Infrastructure
+Enterpriseclass
+Enterprisegrade
+Entitlement Management
+Entity Resolution and Analysis
+ERA
+Entrylevel Smartphone
+Environmental Health and Safety
+EHS Applications
+Environmental Social and Governance
+ESG
+Equity Theory
+Erasable Paper Printing Systems
+Ethernet
+Ethernet Services
+ETSI
+European Telecommunications Standards Institute
+European Nonlifeinsurance Policy Administration Systems
+Event Marketing
+Event Fault And Log Management
+Eventdriven Architecture
+EDA
+Eventtriggered Marketing
+Expert System
+Expertise Location
+Extensible Authentication Protocol
+EAP
+Extensible Business Reporting Language
+XBRL
+Extensible Markup Language
+XML
+Extensible Stylesheet Language
+XSL
+Extensible Stylesheet Language Transformations
+XSLT
+External Audit
+External Services Provider
+ESP
+External Social Software
+Extranet
+Extreme Lowenergy Servers
+Eye Tracking
+Fabric Computing
+Fabricbased Computing
+FBC
+FabricBased Infrastructure
+FBI
+Facebook Commerce
+Fcommerce
+Factory Scheduling
+Fastpacket Switching
+Fault Detection And Isolation
+FCC
+Federal Communications Commission
+FDD
+Frequency Division Duplex
+FDDI
+Fiber Distributed Data Interface
+Feature Smartphone
+Federated Application Life Cycle Management
+FALM
+Federated Identity Management
+Federated Search
+Femtocell
+Femtocells
+FHMA
+Frequencyhopping Multiple Access
+Fiber Optics
+Fibre Channel Over Ethernet
+FCoE
+Field Service Management
+Field Service Management Software
+File Server
+Finance Analytics
+Finance And Accounting Business Process Outsourcing Service Providers
+Finance Automation
+Finance Business Partner
+Finance Strategy
+Finance Transformation
+Financial Analysis
+Financial Analytical Applications
+Financial Bubble
+Financial Close
+Financial Data Management
+Financial Footprint
+Financial KPI
+Financial Management System
+FMS
+Financial Modeling
+Financial Optimization
+Financial Planning and Analysis
+FPA
+Financial Reporting
+Financial Risk Assessment
+Financial Risk Management
+Financial Scenario Planning
+Finished Branded Product
+Finite Loading
+Fintech
+Firecall
+Firewall
+First Generation
+1G or Analog
+FirstCall Resolution
+Fixed Assets
+Fixed Wireless
+Fixedline Carrier
+Flexible Media And Conferencing Switching
+FM
+Facilities Management
+FM
+Frequency Modulation
+FMC
+FixedMobile Convergence
+FMEA
+Failure Modes Effects Analysis
+FMS
+Flexible Manufacturing System
+Folksonomies
+Social Tagging
+FOMA
+Freedom of Mobile Multimedia Access
+Footfall Analysis
+Forecast Accuracy
+Forecasting
+ForeignGlobal Trade Compliance
+GTC
+Forensic Software
+Formularecipe Management
+FP
+Function Point
+FPD
+Flat Panel Display
+FPY
+First Pass Yield
+Framework
+Framing
+Fraud Detection
+Free Cooling
+economizers
+Frequency
+Frequency Band
+Frequency Reuse
+FTP
+File Transfer Protocol
+FTTH
+Fiber to the Home
+FTTP
+Fiber to the Premises
+Fuel Cell
+Functional Programming Languages
+Furlough
+Future of Work
+Fuzzy Logic
+Gain Sharing
+Galileo
+Gallium Nitride
+GaN
+Gamification
+GAN
+Generic Access Network
+Gateway
+Gateway
+Transcoding Server
+Gateway Server
+Gaze Control
+Gemba
+Gemba Walk
+Gender Pay Gap
+General Ledger
+Generation Scheduling
+Geo
+Geosynchronous Orbit
+Geofencing
+Geographic Information System
+GIS
+Geospatial Mashups
+Geostationary Satellite
+Geothermal Cooling For Data Centers
+Geothermal Power Generation
+Gesture Control
+Gesture Recognition
+Gig Economy
+Global Account Management
+GAM
+Global Delivery
+Global Delivery Model
+Global Positioning System
+GPS
+Global Regulatory Management
+Glonass
+GotoMarket
+GTM Strategy
+Golden Parachute
+Governance Risk and Compliance
+GRC
+Government Budget
+Grant Management Solutions
+Granularity
+Gray Market
+Gray Scale
+Green Belt
+Green Money
+Grid Computing
+Grid Computing Without Using Public Cloud Computers
+Gross Domestic Product
+GDP
+Gross New Connections
+Gross Profit
+Ground Segment
+Group Buying
+Groupware
+Growth Strategy
+Guard Interval
+GUI
+Graphical User Interface
+Hadoop
+Hadoop Operations Providers
+Handoff
+Handwriting Recognition
+Haptics
+Haptics In Automotive
+HardDisk Drive
+HDD
+Hardware And Software Maintenance Services
+Hardware Maintenance And Support Services
+HCM Suite Applications
+HCPCS
+Healthcare Procedural Classification System
+HDML
+Handheld Device Markup Language
+Headmounted Displays
+HMDs
+HeadUp Display
+HUD
+Headhunter
+Health Information Exchange
+HIE
+Health Savings Account
+HSA
+Hedge Fund
+Hedging
+HEDIS
+Health Plan Employer Data and Information Set
+Heijunka
+Help Desk Management
+Heterogeneous Architecture
+HI
+Healthcare Infomediary
+Hierarchical Database
+Hierarchical Storage Management And Archive Software
+High Performance Workplace
+High Tj Systems
+Highconcentration Photovoltaics
+PV
+Highdefinition
+HD Voice
+Highperformance Computing
+HPC
+HighPotential Employee
+HIPO
+Highspeed Color Inkjet Printing
+Hightemperature Superconductivity
+Higher Education Catalog And Curriculum Management Solutions
+Higher Education Student Information Systems
+Highlight Color
+HIPAA
+Health Insurance Portability and Accountability Act
+HIS
+Hospital Information System or Healthcare Information System
+Historian Software
+Hit
+HLR
+Home Location Register
+Home Health Monitoring
+Home Hub
+Home Server
+HomeArea Network
+HAN
+Hoshin
+Hosted PC Virtualization Software
+Hosted Virtual Desktops
+HVD
+Hot Spot
+HR Disintermediation
+HR Sharedservicecenter Tools
+HR Strategic Planning
+HRMS
+Human Resource Management System
+HSM
+Hierarchical Storage Management
+HTAPenabling Inmemory Computing Technologies
+HTML
+Hypertext Markup Language
+HTML5
+HTTP 20
+Hub
+Human Augmentation
+Human Capital Management
+HCM
+Human Capital Management
+HCM Application Services
+Human Capital Management
+HCM In Social Software
+Human Resource Management
+Humanitarian Disaster Relief
+Hundred Call Seconds
+CCS
+Hybrid Cloud Computing
+Hybrid Electric Vehicles
+HEVs
+Hybrid Modeling
+Hybrid MPLS
+Internet WAN
+Hybrid Storage Gateway Appliance
+Hybrid Thinking
+Hybrid Unified Communications and Collaboration
+UCC
+Hydrogen Economy
+Hydrogen Fuel Cell Vehicles
+Hype Cycle
+Hyperlink
+Hyperprotocol
+Hypertext
+IO
+InputOutput
+IO Bound
+IO Channel
+IAE
+Integrated Applications Environment
+IAM as a Service
+IAMaaS
+IB
+Integration Broker
+ICD10 Adoption Technology
+iChat
+IDA
+Infocomm Development Authority of Singapore
+IDARS
+Integrated Document Archive and Retrieval System
+IDE
+Integrated Development Environment
+Idea Engine
+Idea Management
+IDEF
+Integrated Definition Methodology
+IDEN
+Integrated Digital Enhanced Network
+Identity And Access Intelligence
+Identity and Access Management
+IAM
+Identity Management
+Identityaware Networks
+IAN
+Identityproofing Services
+IDL
+Interface Definition Language
+IDM
+Integrated Document Management
+IDN
+Integrated Digital Network
+IDS
+Integrated Delivery System
+IDS
+Internet Document Security
+IE
+Information Engineering
+IEEE
+Institute of Electrical and Electronics Engineers
+IEFM
+Integrated Eform Management
+ILPT
+Instructorled Practical Training
+ILTC
+Instructorled Training in the Classroom
+IM
+Information Management
+IM
+Instant Messaging
+Image Recognition
+IMEI
+International Mobile Equipment Identifier
+Immersive Learning Environments
+ILEs
+IMS
+IP Multimedia Subsystem
+IMSI
+International Mobile Subscriber Identity
+IMT2000
+International Mobile Telecommunications2000
+IMTA
+International Mobile Telecommunications Advanced
+Inrack Cooling
+Inrow Cooling
+Instore Logistics Systems
+Inbound Marketing
+Inbound Sales
+Incentive Compensation Management
+Independent Contractor
+Index Fund
+Indirect Spend Management
+Industrial Iot Platforms
+Industrialized IT Services
+Inflation
+Influencer Marketing
+Infocentric
+Infonomics
+Information
+knowledge Assets
+Information Architecture
+Information Capabilities Framework
+Information Cards
+Information Delivery
+Information Dispersal Algorithms
+Information Governance
+Information Life Cycle Management
+ILM
+Information Stewardship Applications
+Information Technology
+IT
+Informationcentric Endpoint And Mobile Protection
+Infrastructure as a Service
+IaaS
+Infrastructure Software
+InfrastructureLed Disruption
+Innovation Management
+Inside Sales
+Insight Engines
+Inspect
+Instant Communications Security And Compliance
+Instruction Set Virtualization
+Insubordination
+Intangible Asset
+Integrated Carrier
+Integrated HR Service Delivery Solutions
+Integrated Marketing Management
+Integrated Risk Management
+IRM
+Integrated Software
+Integration
+Integration Appliances
+Integration as a Service
+IaaS
+Integration Brokerage
+IB
+Integration Platform as a Service
+iPaaS
+Intellectual Property
+Interactive Visualization
+Intercompany Multimodal Unified Communications
+UC
+Internal Controls
+Internet
+Internet Message Access Protocol
+IMAP
+Internet Of Things
+iot
+Internet Protocol Television
+IPTV
+Internet Protocol Version 6
+IPv6
+Internet Radio
+Internet Speed Test
+Internet Telephony
+Internet TV
+Interoperability
+Interoperable Storage Encryption
+Intranet
+Introspection
+Investor Relations
+IR
+IoT Integration
+IoT Platforms
+IoT Security
+IoT Service
+IP
+Internet Protocol
+IP Address
+Internet Protocol Address
+IP Centrex Platforms
+IP Datacasting
+IP Extension Line
+IP Multimedia Subsystem
+IMS
+IP Multimedia Subsystem Session Control Layer
+IP Seat License
+IP Telephony
+IPenabled PBX
+IPenabled PBXKTS IP Extension Line
+IPPBX
+IPService Control Points
+IPA
+Integrated Publishing Architecture
+iPhone
+IRD
+Integrated Receiver Decoder
+IRDA
+Infrared Data Association
+IRR
+Internal Rate of Return
+ISDN
+Integrated Services Digital Network
+ISO
+International Organization for Standardization
+ISO
+Internet Sales Outlet
+ISO 9000
+ISO 9001
+ISP
+Internet Service Provider
+ISV
+Independent Software Vendor
+IT Asset Management
+ITAM
+IT Budget
+IT Chargeback
+IT Consulting
+IT Consulting Services
+IT Decision Support
+IT Governance
+ITG
+IT Incident Management
+IT Industrialization
+IT Infrastructure
+IT Infrastructure Utility
+IU
+IT Management
+IT Management Services
+IT Operations
+IT Operations Management
+ITOM Software
+IT Outsourcing
+IT Resilience Orchestration
+IT Risk
+IT Service Desk
+ITSD
+IT Service Management
+ITSM Tools
+IT Services
+IT Services Sourcing
+IT Services Strategic Sourcing
+IT Strategy
+ITOT Alignment
+ITOT Integration
+ITIL
+ITU
+International Telecommunication Union
+IUS
+Infrastructure Utility Services
+IVR
+Interactive Voice Response
+Java
+Java Applet
+Java ME
+Java Platform Micro Edition
+Java Platform Ad Tools
+Java Platform Enterprise Edition
+Java EE
+Java Servlet
+Javascript
+Jidoka
+JIT
+Just in Time
+Job Description
+Job Scheduling
+Job Shadowing
+Johari Window
+Jukebox
+K12 Student Information Systems
+Kmap
+Knowledge Map
+Kaband
+Kurtzabove Band
+Kaikaku
+Kaizen
+Kanban
+Kano Model
+KCC
+Korea Communications Commission
+Kerfless Wafering
+Kernel
+Key Account Management
+KAM
+Key Accounts
+Key Performance Indicator
+KPI
+KM Strategy
+Knowledge Access
+Knowledge Architect
+Knowledge Assets
+Knowledge Audit
+Knowledge Base
+Knowledge Capital
+Knowledge Capture
+Knowledge Community
+Knowledge Content Owners
+Knowledge Content Specialists
+Knowledge Management
+KM
+Knowledge Organization
+Knowledge Representation
+Knowledge Sharing
+Knowledge Use
+Knowledge Users
+Knowledge Work Management
+Knowledge Workplace
+Knowledge Skills Abilities and Other Characteristics
+KSAOs
+Kohai
+KPIV
+Key Process Input Variable
+KPOV
+Key Process Output Variable
+Kuband
+Kurtzunder Band
+Lband
+Labeling And Artwork Management
+Labor Management System
+Laboratory Information Management System
+LIMS
+Lagging And Leading Key Performance Indicators
+LAN
+LocalArea Network
+LAN Bridging
+Landing Page
+Languageoriented Development Environments
+Distributed Platforms Proprietary
+Languageoriented Development Environments
+Mainframe Mini and Midrange
+Laser
+Laser Disk
+Latency
+LBS
+Locationbased Services
+LCD
+Liquid Crystal Display
+LCD
+Lowest Common Denominator
+LCR
+Lifetime Clinical Record
+LDAP
+Lightweight Directory Access Protocol
+Lead Funnel
+Lead Generation
+Lead Management
+Lead Nurturing
+Lead Scoring
+Lead Time
+Leadership Development
+Lean
+Lean Enterprise
+Lean Thinking
+Learning Stack
+LED
+LightEmitting Diode
+Legacy Application Or System
+LEO
+Low Earth Orbit
+Level
+Library
+License
+Life Insurance Policy Administration Systems
+Life Span
+Lightemitting Polymer
+LightsOut Recovery Operations Management
+Limited Disclosure Technology
+Line
+Line Balancing
+Line Dot Matrix
+Line Driver
+Line Hit
+Line Impact Dot Matrix
+Line Inkjet
+Line Load Control
+Line Loading
+Line Of Business
+Line Of Code
+Link Redundancy Level
+Linux
+Liquefied Natural Gas
+LNG
+Liquid Cooling
+Liquid Crystal on Silicon
+LCoS
+Liquid Submersion Cooling
+Liquidity Planning
+LISP
+Lithium Battery Backup
+Lithium Iron Phosphate
+LiFePO4 Batteries
+Load Balancing
+Load Forecasting
+Local Modifications Memory
+Local Multipoint Distribution Service
+Local Number Portability
+Local Positioning System
+Locationaware Applications
+Locationaware Technology
+Locationbased Advertising
+LBA
+Locationbased Marketing
+LBM
+Logistics
+Logistics Network Planning
+Loopback
+Loosely Coupled Multiprocessing
+Low Frequency
+Lowcost IT
+Loyads
+Loyalty Marketing
+LRC
+Longitudinal Redundancy Check
+LTEA
+Lurker
+Mbusiness
+Mcommerce
+Machine Learning
+MachinetoMachine
+M2M Communications
+Magic Quadrant
+Magneticink Character Recognition
+Magnetooptic
+Magnetometer
+Mainframe
+Mainstream Notebook
+Managed File Transfer
+MFT
+Managed Network Services
+Managed Object
+Managed Print Services
+MPS
+Managed Security Service Provider
+MSSP
+Managed Service Provider
+MSP
+Management by Objectives
+Management Consulting
+Management Information Base
+Manufacturer
+Manufacturing Execution System
+Manufacturing Planning
+Manufacturing Scheduling
+Mapreduce
+Margin Call
+Market Capitalization
+Market Share
+Marketing Analytics
+Marketing Automation
+Marketing Automation Platform
+Marketing Automation System
+Marketing Channel
+Marketing Cloud
+Marketing Communications
+Marcom
+Marketing Content Management
+Marketing Database System
+Marketing Encyclopedia System
+Marketing Intelligence
+Marketing Key Performance Indicators
+KPIs
+Marketing Mix
+Marketing Mix And Product Portfolio Optimization
+Marketing Mix Modeling
+Marketing Mix Optimization
+Marketing Operations
+Marketing Performance Management
+MPM
+Marketing Planning
+Marketing Resource Management
+Marketing Service Providers
+MSPs
+Marketing Strategy
+Marketing Technology
+MarketingQualified Lead
+MQL
+MarketScope
+Mashup
+Mashups
+Mass Collaboration
+Massive Open Online Course
+MOOC
+Master Content Management
+MCM
+Master Data Management
+MDM
+Materials Management
+Materials Management Information System
+Matrix Organizations
+Media Access Control
+Media Gateways
+Media Mix
+Media Objects
+Media Planning
+Media Tablet
+MediaEmbedded Merchandising
+MEM
+Medical Management
+Meeting Solutions
+Megaportal
+Memory Overcommit
+Memristor
+Merchandising Inventory and Operations Execution
+MIOE
+Mergers and Acquisitions
+MA
+Mesh Network
+Message Authentication
+Message Authentication Code
+Message Broker
+Message Feedback
+Message Format
+Message Numbering
+Message Passing
+Message Queuing
+Message Switching
+Message Warehouse
+Messaging
+Messaging Application Programming Interface
+MAPI
+Messaging Device
+Messaging Hypertext Markup Language
+Metadata
+Metadata And Data Modeling Tools
+Metadirectory
+Metalanguage
+Metrication
+Micro Fuel Cells
+Micromarketplace
+Microblogging
+Microbrowser
+Microcode
+Microfilm
+Microgrid
+Microgrids
+Microinverters
+Micromanagement
+Microprocessor
+Microservice
+Microsoft Certified Professional
+MCP
+Middleware
+Midsize Enterprise
+mse
+Million Instructions per Second
+MIPS
+Minimum Cell Rate
+Minimum Viable Product
+MVP
+Minutes of Use
+MOUs
+Mobile Advertising
+Mobile And Wireless Infrastructure Software Platforms
+Mobile Application Development Platform
+MADP
+Mobile Application Stores
+Mobile Browsers
+Mobile Centrex
+Mobile Cloud Synchronization
+Mobile Deep Packet Inspection
+DPI
+Mobile Device Management
+MDM
+Mobile Device Management Services
+MDM Services
+Mobile DRM
+Mobile Earth Station
+Mobile Highdefinition Link
+MHL
+Mobile IM
+Mobile IP
+Mobile Marketing
+Mobile Middleware
+Mobile Network
+Mobile Payment
+Mobile PC
+Mobile PC ODMs
+Mobile Portal
+Mobile Satellite Service
+MSS
+Mobile Satellite Services
+MSS
+Mobile Social Networks
+Mobile Transformers
+Mobile TV
+Mobile Virtual Network Enabler
+MVNE
+Mobile Virtual Network Operator
+MVNO
+Mobile Voice Over Internet Protocol
+mVOIP
+Mobile Web Applications
+Mobile Widgets
+Mobile Wireless Local Loop
+WLL
+Mobilenetwork Operator
+MobileWireless Portal
+Mobility Managed Services
+MMS
+Modeldriven Architecture
+MDA
+Modeldriven Packaged Applications
+ModelOps
+Modulation
+Molecular Transistors
+Molten Salt Energy Storage
+Money Clouds
+Mood Recognition
+Motion JPEG
+MJPEG
+Moves Adds and Changes
+Moving Picture Experts Group
+MPEG
+MPEG4 Advanced Video Coding
+AVC
+MSO
+Management Services Organization
+Multicarrier Code Division Multiple Access
+Multichannel Campaign Management
+Multichannel Feedback Management
+Multichannel Loyalty
+Multichannel Multipoint Distribution Service
+Multicore Processor
+Multidimensional Database Management System
+Multiexperience Development Platforms
+MXDP
+Multifunction Product
+Multimedia
+Multimedia Markup Language
+Multimedia Messaging Service
+Multimodal TMS
+Multimode Fiber
+Multiple InputMultiple Output
+Multiple Instruction Multiple Data
+Multiple Regression
+Multiplexing
+Multipoint
+Multipurpose Internet Messaging Extensions
+Multitenancy
+Multithreading
+Multitouch
+Nchannel Metaloxide Semiconductor
+NMOS
+Nagara
+NAND
+Nanography
+Nanomaterial Supercapacitors
+Nanotube
+NAP
+Network Access Point
+Narrowband Channels
+NAS
+NetworkAttached Storage
+Native Advertising
+NaturalLanguage Processing
+NLP
+NaturalLanguage Understanding
+NC
+Network Computer
+NCCJ
+Native Code Compiler for Java
+NCOP
+Network Code of Practice
+NDC
+Networked Data Center
+NDF
+Network Dynamic Functionality
+Near Field Communication
+NFC
+Necessary Nonvalueadding
+Nemawashi
+Nepotism
+Net New Connections
+Net Present Value
+Net Profit Margin
+Net Promoter Score
+NPS
+Netliberated Organization
+Netbooks
+Network
+Network Access Control
+NAC
+Network and System Management
+Network Appliance
+Network Computing
+Network Configuration and Change Management
+NCCM Tools
+Network Database
+Network Fault Monitoring Tools
+Network Intelligence
+NI
+Network Interface Card
+Network Inventory
+Network Management
+Network Management Center
+Network on Chip
+NoC
+Network Operating System
+Network Outsourcing
+Enterprise and Public Network
+Network Performance Monitoring Tools
+Network Performance TuningConfiguring Facilities
+Network Redundancy
+Network Security
+Network Security Silicon
+Network Sharing
+Network Topology
+Network Video Recorders
+Network Virtual Terminal
+Network Virtualization
+Neural Network
+Neurobusiness
+Nextgeneration Firewalls
+NGFWs
+Nextgeneration Network
+Nextgeneration Telematics Protocol
+NGTP
+Nexus Of Forces
+Niche Market
+NMTF
+Noemail Initiatives
+Node B
+Nomadic Wireless
+Noncable Consumer Fixed Broadband
+Nonvalueadding
+Nonvolatile Memory Express
+Nonwireline Cellular Carrier
+Notebook
+OASIS
+Object Class
+Object Data Model
+Object Instance
+Object Late Binding
+Object Request Broker
+Object Role Modeling
+Object Transaction Monitor
+Objectbased Middleware
+Objectbased Technologies
+Objectoriented Analysis and Design
+Objectoriented Database Management System
+Objectoriented Programming
+Objectoriented System
+Objectoriented Technology
+Occam Process
+ODM
+Own Design Manufacturer
+ODP
+Ondevice Portal
+Off The Shelf
+Offshore Programming
+Offshoring
+Olfactory Interfaces
+Omnichannel
+On Time In Full
+OTIF
+Ondevice Monitoring
+Onboarding
+OneAPI
+Online Complex Processing
+Online Proctoring Services For Higher Education
+Online Program Management In Higher Education
+Online Transaction Processing
+Open Architecture
+Open Compute Project
+Open Data
+Open Mobile Alliance
+Open Source
+Operating Model
+Operating System
+Operational Data Store
+Operational Resilience
+Operational Resource Management
+Operational Technology
+OT
+Operations Services
+Operations Support System
+Opportunity Management
+Opportunity Management System
+Optical Transport
+Optimization Routines
+Option Analysis
+Order Management
+Organic Lightemitting Diode
+OLED
+Organizational Culture
+Organizational Design
+Organizational Structure
+Original Equipment Manufacturer
+Osi Management
+Outage Management System
+OMS
+Outsourcing
+Over The Air
+Overlay
+P2P
+PeertoPeer
+Pacelayered Application Strategy
+Packet Switching
+Packetswitched Network
+PACS
+Personal Access Communication Services
+PAD
+Packet AssemblerDisassembler
+Page
+Paid Media
+Paid Social
+Pain Points
+PAL
+Phase Alternate Line
+PAM
+Pulse Amplitude Modulation
+Paper Size
+Parabolic Trough
+Parallel Network File System
+PNFS
+Parallel Processing
+Partitioning Code
+Partner Customer Support Software
+Partner Relationship Management
+PRM
+PAS
+Personal Access System
+Password Management Tools
+Patternbased Strategy
+Payroll
+PBX
+Private Branch Exchange
+PC Virtual Software Appliance
+PCM
+Patient Care Management
+PCM
+Pulse Code Modulation
+PCO
+Physician Contracting Organization
+PCS
+Personal Communications Services
+PCU
+Packet Control Unit
+PDA
+Personal Digital Assistant
+PDC
+Personal Digital Cellular
+PDE
+Partial Document Encryption
+PDM
+Product Data Management
+Peak Traffic
+in Erlangs
+Penetration Rate
+mobile
+Penetration Testing
+People Analytics
+Perfect Order
+Perfection
+Performance Appraisal
+Performance Management
+Performance Marketing
+Performancedriven Culture
+Persona Management
+Personal Cloud
+Personalization
+Personalization Engines
+Peter Principle
+Phase Change Memory
+PCM
+Phasor Measurement Units
+PMUs
+PHMT
+PHO
+Physician Hospital Organization
+Photonic Crystal Displays
+PHR
+Personal Health Record
+PHS
+Personal Handyphone System
+Physical Resource And Infrastructure Management Tools
+Physical Security
+Pico Projector
+Picocell
+PIM
+Personal Information Manager
+PIMS
+Production Information Management System
+Pipeline Velocity
+Plain Old XML
+POX
+Platform
+Digital Business
+Platform as a Service
+PaaS
+Platformindependent
+PLC
+Programmable Logic Controller
+Podcast
+Podcasting
+Point To Point
+Pokeyoke
+Polymer Memory
+POP
+Point of Presence
+Portable Flash Media For Content Distribution
+Portable Storage Device Control
+Portable Wireless
+Portal
+Portal Fabric
+Portalenabling Middleware
+Portals And User Interaction Tools
+Portfolio Management
+Porting
+POS
+Point of Sale
+POS
+Point of Service
+Postmodern ERP
+Postpaid Connection
+Power Adaptive Algorithms
+Predictive Analytics
+Predictive Analytics
+2
+Predictive Behavior Analysis
+Predictive Modeling
+Predictive Modeling Solutions
+Predictive Support
+Prerelational DBMS
+Prescriptive Analytics
+Presence
+Print Markets And Management Hardware
+Printed Semiconductors
+Privacy Engineering
+Privacy Management Tools
+Private Cloud Computing
+Private Key
+Problem Management
+Process Analytical Technology
+PAT
+Process Control
+Process Management
+Process Manufacturing
+Process Mining
+Process Templates
+Processing Line
+Processor Emulation
+Procuretopay Solution
+Procurement
+Procurement Network
+Product
+digital Business
+Product Analytics
+Product Catalog
+Product Configurators
+Product Cost and Life Cycle Management
+PCLM
+Product Cost Management
+Product Life Cycle Management
+PLM
+Product Management
+Digital Business
+Product Marketing
+Product Portfolio and Program Management
+PPM
+Product Support Services
+Production Devices
+Profit Margin
+Profitability
+Programmable Infrastructure
+Programmatic Advertising
+Project Management
+Project Management Office
+PMO
+Proof of Concept
+POC
+Proprietary Software
+Prospecting
+Protocol
+Protocol Conversion
+Protocol Stack
+Protocoltransparent
+Proximity Marketing
+Proxy Agent
+Proxy Server
+PSA
+Professional Services Administration
+PSK
+Phaseshift Keying
+Psychographics
+Psychological Safety
+PTR
+Peak Transaction Rate
+Public Cloud Computing
+Public Key
+Publickey Cryptography
+Publickey Infrastructure
+PKI
+Publish And Subscribe
+PublishSubscribe Architecture
+Pull
+Pull Printing
+Pulse Carrier
+Push Technology
+Pushtotalk
+PWM
+Pulse Width Modulation
+Pwn
+PX
+Private Exchange
+QA
+Quality Assurance
+QAM
+Quadrature Amplitude Modulation
+QoS
+Quality of Service
+Quadband
+Qualified Lead
+Quality Of Storage Service
+Quantitative Finance
+Quantum Computing
+Quantum Dot Displays
+Quick Response Codes
+QR Codes
+RUIM
+Removable User Identity Module
+RAAD
+Rapid Architected Application Development
+Rack
+Rack Density
+Rack Mount
+Rack Unit
+RU
+RAD
+Rapid Application Development
+Radio PAD
+Radio Packet AssemblerDisassembler
+Radiofrequency Identification
+RFID
+RAID
+Redundant Array of Independent Disks
+Random Sampling
+RAS
+Reliability Availability and Serviceability
+RDBMS
+Relational Database Management System
+RDM
+Requirements Definition and Management
+Real Time
+Realtime Analytics
+Realworld Data
+Receiver Sensitivity
+Reconfigurable Optical AddDrop Multiplexers
+ROADMs
+Record to Report
+R2R
+Records Management
+RM
+Redaction
+Redaction Tools
+Redundancy
+Refinancing
+Regulatory Compliance
+Relational DBMS
+Remote Access
+Remote Control
+Remote Diagnostics
+Remote Work
+Removable Modules
+Repeatable Solutions
+Repository
+Reputation Management
+Request for Proposal
+RFP
+Resource Requirements Planning
+Response Time
+Retail Digital Signage
+Retail Execution And Monitoring
+Retail Sales
+Retail System Integrators
+Retargeting
+Retirements
+Return on Investment
+ROI
+Reusable Analog Intellectual Property
+IP
+Reuse
+Revenue
+Revenue Assurance
+Revenue Operations
+RFID Reader
+RFID Tags
+Rich Communication Suite
+RCS
+Rich Internet Application
+RIA
+Right to Work
+RISC
+Reduced Instruction Set Computer
+Risk Management
+Risk Management And Compliance Consulting Services
+Riskadjusted Value Management
+RVM
+RM
+Relationship Manager
+RNC
+Radio Network Controller
+Roaming
+Robotic Process Automation
+RPA
+Robotic Process Automation Software
+ROC
+Return on Competitiveness
+ROE
+Return on Equity
+ROI
+Return on Investment
+ROIT
+Return on Information Technology
+ROLAP
+Relational Online Analytical Processing
+Rolling Forecast
+Rotary Heat Exchanger
+Kyoto Wheel
+RoutetoMarket Strategy
+RSA
+Rural Service Area
+RTT
+Roundtrip Time
+Runtime Application Selfprotection
+RASP
+Sband
+SHTTP
+Secure Hypertext Transport Protocol
+SAC
+Subscriber Acquisition Cost
+SAE
+System Architecture Evolution
+Sales Analytics
+Sales and Operations Execution
+SOE
+Sales And Operations Planning Systems Of Differentiation
+Sales Channel
+Sales Coaching
+Sales Compensation
+Sales Configuration Systems
+Sales Cycle
+Sales Dashboards
+Sales Enablement
+Sales Forecast
+Sales Forecasting
+Sales Funnel
+Sales Key Performance Indicators
+KPIs
+Sales Kickoff
+Sales Leadership
+Sales Management
+Sales Methodologies
+Sales Metrics
+Sales Operations
+Sales Pipeline
+Sales Process
+Sales Prospect
+Sales Qualification
+Sales Quota
+Sales Report
+Sales Strategy
+Sales Technologies
+Sales To End Users
+Sales Training
+Sales Turnover
+Salesfocused Partner Relationship Management
+PRM
+SalesQualified Lead
+SQL
+SAM
+Software Asset Management
+SAM Tools
+Systems Administration Management Tools
+SAN
+Storage Area Network
+SAP Application Services Worldwide
+SAP Selective Test Data Management Tools
+SAP SuccessFactors Service Providers
+SarbarnesOxley Act
+SOX
+Satellite Broadcasting Operator
+Satellite Communications
+Satellite Communications Operator
+Satellite Computer
+Satellite Dish
+Satellite Navigation Solutions
+Satellite Navigation Systems
+Satellite Phone
+satphone
+SAX
+Simple API for XML
+SBM
+Skillsbased Management
+SCFDMA
+Singlecarrier Frequency Division Multiple Access
+SCADA
+Supervisory Control and Data Acquisition
+Scalability
+Scanner
+Scattering
+SCCM
+Software Change and Configuration Management
+SCIV
+Supply Chain Inventory Visibility
+SCM
+Software Configuration Management
+Scope Track Rank Evaluate Evangelize and Transfer
+STREET
+SCPC
+Single Channel Per Carrier
+SCR
+Sustainable Cell Rate
+Scrambler
+Screen Popping
+Screen Sharing
+Screening
+Scriptless Testing
+SDHSONET
+SDK
+Software Development Kit
+SDMA
+Spatial Division Multiple Access
+SDSL
+Symmetric Digital Subscriber Line
+Search Engine
+Search Engine Optimization
+SEO
+Searchbased Data Discovery Tools
+Secondary Channel
+Secondary Station
+Secondhand Market
+Secret Key
+Secretkey Cryptography
+Secure Web Gateway
+Security
+Security Awareness Computerbased Training
+Security Governance
+Security Information And Event Management
+Security Information and Event Management
+SIEM
+Security Information And Event Management Software
+Security Orchestration Automation and Response
+SOAR
+Segmentation
+Seiban
+Selective Sourcing
+Selector
+Selfdescribing Messages
+Selfrelocating Program
+Selfservice Analytics
+Selfservice Business Intelligence
+Selftest And Fault Isolation
+Sell Side
+Selling General and Administrative
+SGA Expenses
+Semantic Data Model
+Semantic Nets
+Semimobile Wireless
+Semiconductor
+Senpai
+Sense Making
+Sensei
+also Lean Sensei
+Sensor and RFIDbased Inventory and Asset Management Business Process Application Software
+Sensor and RFIDbased Inventory and Asset Management Infrastructure Software
+Serial Dot Matrix
+Serial Inkjet
+Serial Interface
+Serial Transmission
+Server Appliance
+Server Virtualization Infrastructure
+Server Virtualization Management
+ServerBased Computing
+SBC
+Serverless Printing
+Service Bureau
+Service Catalog
+Service Desk
+Service Inventory
+Service Levels
+Service Mesh
+Service Provider Routers And Switches
+Servicecentric Cloud Erp Solutions
+ServiceLevel Agreement
+SLA
+Serviceoriented Architecture
+SOA
+Serving Area
+Servlet
+Session Border Controllers
+Session Initiation Protocol
+SIP
+Seven Wastes
+SFA
+Sales Force Automation
+SFA
+SFC
+Shop Floor Control
+SFDR
+Software Failure Detection and Recovery
+SFFLR
+Smallformfactor Legacyreduced
+SFM
+StoreandForward Manager
+SGSN
+Serving GPRS Support Node
+Shadow It
+Shadowmirror Databases
+Shared Services Or Shared Services Center
+Shielded Pair
+Shim
+Shipments
+Shojinka
+Short Message Service
+SMS
+ShortTerm Financial Goals
+Shrinkwrapped
+SI
+System Integrator
+Sideband
+Signalto Noise Ratio
+Signaling GatewaysIPSTPs
+Signature
+Signature Verification
+Silicon Anode Batteries
+SIM Card
+Subscriber Identity Module Card
+SIM Toolkit
+SIM Application Toolkit
+SIMD
+Single Instruction Multiple Data
+SIMM
+Single Inline Memory Module
+Simplex
+Simplex Circuit
+Simulation
+Simulation Routines
+Single Signon
+SSO
+Singleimage Mode
+Singleinstance ERP
+Singlemode Fiber
+Singlepass Device
+Sink
+SITE
+Strategy Iteration Testing Enablement
+Situational Leadership
+Six Sigma
+Skill Mining
+Skills
+Skinless Servers
+Skinput
+Bioacoustic Sensing
+SKU
+StockKeeping Unit
+SLED
+Single Large Expensive Disk
+SLM
+ServiceLevel Management
+SLM
+Software License Management
+SLO
+ServiceLevel Objective
+SMA
+Service Management Agreement
+Small and Midsize Business
+SMB
+Smart Antenna
+Smart Card
+Smart Contract
+Smart Factory
+Smart Grid
+Smart Machines
+Smart Manufacturing
+Smart Pills
+Smart Terminal
+Smartphone
+SME
+SmalltoMidsize Enterprise
+SMED
+Single Minute Exchange of Die
+SMFP
+Smart MFP
+SMP
+Symmetric Multiprocessing
+SMR
+Specialized Mobile Radio
+SMS
+SystemManaged Storage
+SMTP
+Simple Mail Transfer Protocol
+Sniffer
+SNMP
+Simple Network Management Protocol
+SNOMED
+Systematized Nomenclature of Medicine
+SOA Governance Technologies
+SOAP
+Simple Object Access Protocol
+SOAP
+Subjective Objective Assessment and Plan
+SOC
+Software Oversight Committee
+Social Analytics
+Social BPM
+Social Computing
+Social Content
+Social CRM
+Social Feedback
+Social Gaming
+Social Media
+Social Media Marketing
+Social Media Tools
+Social Network Analysis
+SNA
+Social Networking
+Social Networking Sites
+Social Profile
+Social Profiles
+Social Publishing
+Social Search
+Social Selling
+Social Software
+Social Software Standards
+Social Systems
+Social Tagging
+Folksonomy
+Social Technologies
+Social Web
+Socialcasting
+Sockets
+Softswitch Architecture
+Softswitches
+Software as a Service
+SaaS
+Software Development
+Software Maintenance
+Software Support Services
+Softwaredefined Networks
+SoftwareDefined Radio
+SDR
+SoftwareDefined WAN
+SDWAN
+SOHO
+Small OfficeHome Office
+Solidstate Appliances
+SolidState Drives
+SSDs
+Solution
+Solution Architecture
+Solution Portfolio
+SONET
+Synchronous Optical Network
+Source Encoding
+Source Routing
+Source Traffic Descriptor
+SOW
+Statement of Work
+SP
+Service Pack
+Space Segment
+Spaghetti Chart
+Spam
+Spamdexing
+SPC
+Statistical Process Control
+Spectrum
+Spectrum Harmonization
+Speech Circuit
+Speech Recognition
+Spend Management
+SPF
+Shortest Path First
+Spider
+Spoofing
+SPP
+Service Parts Planning
+Spread Spectrum
+SQL
+Structured Query Language
+SRA
+SSEM
+System and Server Evaluation Model
+SSL
+Secure Sockets Layer
+SSN
+Switched Service Network
+SSP
+Service Switching Point
+SSP
+Storage Service Provider
+SSPC
+Structure Scripting Populating and Channel Outputs
+Staffing
+Stalking Horses
+Standard
+Standard Performance Evaluation Corporation
+SPEC
+Standards
+Static Application Security Testing
+SAST
+Statistical Multiplexing
+Statistical Quality Controlstatistical Process Control
+STDM
+Statistical TimeDivision Multiplexing
+STEP
+Specification Tracking Evaluation Production
+Stickiness
+STM
+Synchronous Transfer Mode
+Storage Appliance
+Storage Management Software
+Storage Resource Management
+SRM
+Storage Subsystem Hardware Services
+Storage Support Services
+StoreandForward Voice
+Strategic Information Office
+SIO
+Strategic Planning
+Strategic Sourcing
+Streaming
+Structural Change
+Sub11GHz Proprietary BWA
+Subvoicegrade Channel
+Subnet
+Subnet Mask
+Subnet Number
+Subscriber
+Succession Planning and Management
+Super WiFi
+Superserver
+Supplier Relationship Management
+SRM
+Supplier Risk Management
+Supply Chain
+Supply Chain Architecture Life Cycle
+Supply Chain Execution
+sce
+Supply Chain Management
+SCM
+Supply Chain Planning
+SCP
+Supply Chain Segmentation
+Surface Computers
+Sustainability Management
+SVG Interface
+Scalable Vector Graphics Interface
+SVGA
+Super Video Graphics Array
+SWAP
+Simple Workflow Access Protocol
+SWIFT
+Society for Worldwide Interbank Financial Telecommunication
+Switch
+Switchbased Storage Virtualization
+Switched Line
+Switched Network
+Switching
+Switching Center
+Switchover
+Symbian
+Synchronization
+Synchronized Bills Of Materials
+Synchronous
+Synchronous Communications
+Synchronous Network
+Synchronous Transmission
+SyncML
+Synchronization Markup Language
+Syntax
+Synthetic Data
+System Integration
+System Management
+Table Driven
+Tacit Knowledge
+TACS
+Total Access Communications System
+Tag Management
+Takt Time
+Talent Acquisition
+Talent Management
+Talent Management Suites
+Targeting
+TCP
+Transmission Control Protocol
+TCPIP
+Transmission Control ProtocolInternet Protocol
+TDMA
+Time Division Multiple Access
+TDR
+Time Domain Reflectometry
+Team Building
+Techquilibrium
+Techquisitions
+Telco
+Telecom Analytics
+Telecom Equipment Support Services
+Telecom Expense Management Services
+Telecommunications Carrier
+Telecommunications Equipment
+Telecommunications Services
+Teledensity
+Telematics
+Telephonycentric UC Approach
+Teraarchitectures
+Terabitpersecond Transport
+TERM
+Technologyenabled Relationship Management
+Terminal
+Terminal Emulation
+Territory Management
+Test Data Generator
+Tethered Remote Access
+Text Analytics
+Text Mining
+Text Retrieval
+Thermal Printing
+Thermal Transfer
+Thin Client
+Thin Provisioning
+Thirdparty Logistics Worldwide
+Threeschema Architecture
+ThroughSilicon Vias
+TSVs
+Throughput
+Time Division Multiplexing
+TDM
+Time Out
+TLM
+Technical License Management
+TLP
+Transmissionlevel Point
+TLS
+Transport Layer Security
+TMG
+Trunk Media Gateways
+TMS
+Transportation Management System
+Tokenization
+Total Connections
+Total Cost of Ownership
+TCO
+Total IPTV Subscribers
+Total Quality Management
+TQM
+Total Revenue
+Total Service Revenue
+Touchsensitive
+Touchpoint
+Track And Trace
+Trade Marketing
+Trade Promotion Management And Optimization
+Training and Development Programs
+Transaction Processing
+Transceiver
+Transducer
+Transfer Rate
+Transferable Skill
+Transformational Leadership
+Translator
+Transmedia
+Transparency
+Transponder
+Trouble Ticket
+Tuning
+Tunneling
+Type A B And C Enterprises
+Ultrahighspeed Broadband Internet
+Ultrabook
+Ultracapacitors
+Ultramobiles
+Unified Communications
+UC
+Unified Communications and Collaboration
+UCC
+Unified Communications as a Service
+UCaaS
+Unified Communications Products
+Unified Price Promotion And Markdown Optimization Applications
+Unified Threat Management
+UTM
+URL
+Uniform Resource Locator
+User Authentication Technologies
+User Experience
+UX
+User Experience Platforms
+UXP
+User Provisioning
+Value Drivers
+Value Proposition
+Value Stream
+Value Stream Mapping
+VSM
+Valueadded Network
+VAN
+ValueAdded Reseller
+VAR
+Valueadded Service
+VAS
+Valueadding
+ValueOps
+Variable Bit Rate
+VBR
+VBScript
+Vendor
+Vendor Management
+Vendor Revenue
+Vendor Risk Management
+vrm
+Vendorneutral
+Versatile Authentication Server and Service
+VAS
+Very Highspeed Digital Subscriber Lines
+VDSL
+Very Largescale Integration
+VLSI
+Very Small Aperture Terminal
+VSAT
+Video On Demand
+VOD
+Video Surveillance Management Systems
+Video Telepresence
+Videoconferencing
+Virtual Assistant
+VA
+Virtual Channel
+VC
+Virtual Customer Premises Equipment
+vCPE
+Virtual Desktop Infrastructure
+VDI
+Virtual LAN
+VLAN
+Virtual Machine
+VM
+Virtual Matrix Organization
+Virtual Network Operator
+vno
+Virtual Private Network
+VPN
+Virtual Reality
+VR
+Virtual Reality Modeling Language
+VRML
+Virtual Selling
+Virtual Server Facility
+VSF
+Virtual Switch
+Virtual Tape Library
+VTL
+Virtual Team
+Virtual Team Building
+Virtualization
+Virtualization Software
+Visitor Location Register
+VLR
+Visual Basic
+VB
+Visual Basic Extension
+VBX
+Visual Basic for Applications
+VBA
+Visual Studio
+VS
+Visualization
+Voice Application Servers
+Voice Browser
+Voice Encryption
+Voice Endpoint
+Voice Mail
+Voice of the Customer
+VoC
+Voice Over Internet Protocol
+VOIP
+Voice Over Wireless LAN
+VoWLAN
+Voice Portal
+Voice Response System
+VRS
+Voice Response Unit
+VRU
+Voice Switching Control And Applications
+VSCA
+Voiceenabled ResidentialSmalloffice GatewayRouter with Embedded DSL Modem
+xDSL IAD
+VoiceXML
+Volumetric Displays
+Vulnerability Assessment
+Wafer
+WAG
+Wireless Application Gateway
+WAN
+WideArea Network
+WAN Performance Monitor
+WAN Replacement
+WAP
+Wireless Application Protocol
+WAP Browser
+WAP Forum
+Warehouse Management System
+WMS
+Warehouse Simulation
+WASP
+Wireless Application Service Provider
+Waste
+Waste Walk
+Wave Power
+Wavelength Division Multiplexing Passive Optical Network
+WDMPON
+WBS
+Work Breakdown Structure
+WCDMA
+Wideband Code Division Multiple Access
+WDP
+Wireless Datagram Protocol
+Weak Or Strong Signal
+Wearable Computer
+Web
+Web 20
+Web Access Management
+WAM
+Web Analytics
+Web ATM
+Web Authorization Management
+WAM
+Web Books
+Web Conferencing And Shared Work Spacesteam Collaboration
+Web Content Management
+WCM
+Web Crawler
+Web Email
+Web Hosting
+Web Integration Servers
+Web Phone
+Web Server
+Web Services
+Web Services Software
+Web TV
+Web Widgets
+Webenabled
+Weboriented Architecture
+WOA
+Website
+Website Experience Analytics
+WECA
+Wireless Ethernet Compatibility Alliance
+WEP
+Wired Equivalent Privacy
+WFM
+Wired for Management
+WFM
+Workforce Management
+Wholesale Carrier
+WiFi
+Wireless Fidelity
+WiFi Alliance
+WiFi Mesh
+WiFi Protected Access
+WPA
+WiFi Protected Access 2
+WPA2
+WiBree
+WiBro
+Wireless Broadband
+Widearea Network Optimization Controllers
+WOCs
+WiGig
+WiHD
+Wireless HD
+Wiki
+WIM
+WAP Identity Module
+WiMAX
+Worldwide Interoperability for Microwave Access
+Wimedia Alliance
+Windowing
+Windows CE
+Windows Client
+Windows Live Messenger
+Winning in the Turns
+Wireless Data Communication
+Wireless Intrusion Prevention System
+WIPS
+Wireless LocalArea Network
+WLAN
+Wireless Power
+Word of Mouth
+Work Management
+WorkLife Balance
+Workday Financial Management Service Providers
+Workers Compensation
+Workflow Management
+Workforce Analytics
+Workforce Diversity
+Working Capital
+Workplace Bullying
+Workstations
+World Wide Web Consortium
+W3C
+Wrongful Termination
+X Windows
+Zero Trust Network Access
+ZTNA
+ZeroBased Budgeting
+ZBB
+Zerolatency Enterprise
+ZLE
+ZigBee
